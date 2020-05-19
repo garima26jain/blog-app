@@ -1,0 +1,11 @@
+:root{
+  --light-green: #299;
+  --dark-green: #277; 
+}
+
+*{
+  font-family: 'Jura', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
